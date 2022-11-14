@@ -1,7 +1,7 @@
 # Vegan-shop
 In this project I have built a Static web page called Vegan Store. I used html, Css, AZURE STATIC WEB APP  and AZURE STORAGE ACCOUNTS.
 In this website you can see our different shops and main benifits of being a vegan and also anyone can contact us from contact page.
-They can also subscribe for our newslettes.I used AZURE STATIC WEB APP to host and STORAGE ACCOUNTS to store the source code.
+They can also subscribe for our newsletters.I used AZURE STATIC WEB APP to host and STORAGE ACCOUNTS to store the source code.
 
 project link( demo link): https://icy-flower-011bf0a10.2.azurestaticapps.net/
 
